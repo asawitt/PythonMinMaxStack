@@ -44,7 +44,7 @@ min_stack.getSize()
 min_stack.isEmpty()
 
 ### Get the current min (or max) in the Stack O(1):
-min_stack.query() #returns the min value in the stack (or max, depending on the function passed in on initialization
+min_stack.query() #returns the min value in the stack (or max, depending on the function passed in on initialization)
 
 ## License
     This program is free software: you can redistribute it and/or modify
