@@ -38,7 +38,7 @@ min_stack.display()
 
 min_stack.getSize()
 
-### Check if the Queue is empty O(1)
+### Check if the Stack is empty O(1)
 -Returns True if the Stack is empty, False otherwise
 
 min_stack.isEmpty()
